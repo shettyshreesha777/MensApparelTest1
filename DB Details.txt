@@ -1,0 +1,4 @@
+usesername: if0_35813412
+password: M9paDGdIboY
+db name: if0_35813412_ecommerce
+host name: sql210.infinityfree.com
